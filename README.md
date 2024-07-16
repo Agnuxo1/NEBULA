@@ -128,7 +128,8 @@ NEBULA represents a novel approach to artificial intelligence, combining princip
 
 While the current implementation of NEBULA is primarily a proof of concept, it demonstrates the potential for integrating diverse computational paradigms into a unified learning system. As quantum computing and AI technologies continue to advance, systems like NEBULA may play a crucial role in developing more powerful and flexible artificial intelligence solutions.
 
-![corrected-nebula-svg](https://github.com/user-attachments/assets/d3a52b37-a949-4fb0-a857-b32700b504d4)
+![corrected-nebula-svg (2)](https://github.com/user-attachments/assets/db2db13a-0105-48a3-b2b1-fa4aa1129206)
+
 
 
 
