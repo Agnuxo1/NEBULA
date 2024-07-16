@@ -1,6 +1,6 @@
-# NEBULA
+# NEBULA  
 NEBULA: Neural Entanglement-Based Unified Learning Architecture NEBULA is a dynamic and innovative artificial intelligence system designed  to emulate quantum computing principles and biological neural networks. 
-
+NEBULA.py https://github.com/Agnuxo1/NEBULA/blob/main/NEBULA.py
 
 Abstract
 
@@ -128,7 +128,8 @@ NEBULA represents a novel approach to artificial intelligence, combining princip
 
 While the current implementation of NEBULA is primarily a proof of concept, it demonstrates the potential for integrating diverse computational paradigms into a unified learning system. As quantum computing and AI technologies continue to advance, systems like NEBULA may play a crucial role in developing more powerful and flexible artificial intelligence solutions.
 
-![nebula-information-flow-svg](https://github.com/user-attachments/assets/089c86cc-02f8-4308-a98b-59e143e3f4ef)
+![nebula-information-flow-svg](https://github.com/user-attachments/assets/d6636e7d-ed5a-450f-b1e2-cdab31c11bc4)
+
 
 
 References
