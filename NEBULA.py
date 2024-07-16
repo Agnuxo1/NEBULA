@@ -1,5 +1,7 @@
 
 """
+******************** This version of NEBULA is a simplified working demo **********************
+
 NEBULA.py: Dynamic Quantum-Inspired Neural Network System
 
 **Francisco Angulo de Lafuente**  
